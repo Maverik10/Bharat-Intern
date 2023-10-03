@@ -1,4 +1,4 @@
-# Bharat-Internx
+# Bharat-Intern
 HOUSE PREDICTION USING LINEAR REGRESSION
 
 Title: House Price Prediction Using Linear Regression
